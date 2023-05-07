@@ -1,6 +1,6 @@
 This folder SHOULD contain all source code needed to build the project in STM32CubeIDE.
 
-While CubeIDE is used, this is a bare-metal style project, it does NOT use Cube-IDE or any other external libraries.  The printf library was pulled from
+While CubeIDE is used, this is a bare-metal style project, it does NOT use STM32 HAL or any other external libraries.  The printf library was pulled from
 https://github.com/mpaland/printf
 
 Some of the startup code was pulled from a combination of bare-metal project resources and the CubeMX generated startup code.
